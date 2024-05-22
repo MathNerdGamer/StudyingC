@@ -6,3 +6,4 @@ Learning Java using [the 3rd edition of "Modern C" by Jens Gustedt](https://www.
 
 ### Programs:
 * [Hello, world!](./hello_world/hello_world.c)
+* [Merge Sort](./merge_sort/merge_sort.c)
